@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ambiente/Config
+.venv/
+.env
+.env.*
+*.env
+*.ini
+*.cfg
+
+# Database / dati locali
+*.db
+*.sqlite
+*.sqlite3
+data/
+logs/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+
+# Varie
+*.log
